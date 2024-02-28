@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-"""displays listening ports: only shows listening sockets; shows the PID"""
+# displays listening ports: only shows listening sockets; shows the PID
 
 netstat - l - -program
